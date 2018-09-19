@@ -1,0 +1,10 @@
+Score:-Coefficient of Determination
+1-(u/v)
+u->sumation(yT-yP)^2
+v->sumation(yT-ymean)^2
+1-(sumation(yT-yP)^2/sumation(yT-ymean)^2)
+Higher is better
+
+score_test=algl.score(X_test,Y_test)
+score_training=algl.score(X_train,Y_train)
+score_test,score_training
