@@ -6,3 +6,4 @@ Machine Learning Course
 3. [Lecture 3 Lists and Dictionaries](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%203%20Lists%20and%20Dictionaries)
 4. [Lecture 4 2D Lists and Numpy](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%204%202D%20Lists%20and%20Numpy)
 5. [Lecture 5 Pandas](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%205%20Pandas)
+6. [Lecture 6 Plotting Graphs](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%206%20Plotting%20Graphs)
