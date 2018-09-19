@@ -1,0 +1,10 @@
+ML is a subset of AI
+1. Supervised ML 
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Supervised Learning: eg.Tumar is miligent or not
+Unsupervised Learning: Split FB users into 10 groups on basis of close to each other.We don't have clear marked output.
+Reinforcement Learning: chess,if win positive .if they play more they get to idea how to win
+
+In Past, we are not storing data as it was expensive.
