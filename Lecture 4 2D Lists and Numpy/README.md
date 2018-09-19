@@ -3,8 +3,8 @@
 
 2. Wave Print
 
-3.Importing Modules
+3. Importing Modules
 
-4.Numpy
+4. Numpy
 
-5.Numpy Operations
+5. Numpy Operations
