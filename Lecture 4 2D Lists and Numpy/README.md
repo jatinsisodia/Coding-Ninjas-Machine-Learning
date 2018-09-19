@@ -1,4 +1,4 @@
-### 2D Lists and Numpy ###
+###  2D Lists and Numpy ###
 1. 2D Lists
 
 2. Wave Print
