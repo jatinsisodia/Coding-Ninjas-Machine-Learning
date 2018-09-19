@@ -8,4 +8,5 @@ Machine Learning Course
 5. [Lecture 5 Pandas](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%205%20Pandas)
 6. [Lecture 6 Plotting Graphs](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%206%20Plotting%20Graphs)
 7. [Lecture 7 Introduction to ML](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%207%20Introduction%20to%20ML)
+
 8.[Lecture 8 Linear Regression](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%208%20Linear%20Regression)
