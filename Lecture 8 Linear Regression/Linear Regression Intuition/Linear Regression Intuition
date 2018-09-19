@@ -1,0 +1,4 @@
+y=m1x1+m2x2+m3x3+b
+y=mx+c
+training data:calculate m1 m2 m3 b
+Linear Regression:is assuming linear relation between x & y
