@@ -1,0 +1,2 @@
+m_=m-alpha*d cost/d m
+c_=c-alpha**d cost/d c
