@@ -1,0 +1,14 @@
+ Pros of KNN:
+ 
+ 1.Easy to understand and Code
+ 2.Multi class classification works
+ 3.Insensitive to Outliers
+ 4.Versitible useful for classification and Regression
+ 
+ Consequence of KNN:
+ 
+ 1.Testing time is Huge
+ 2.Computationality expensive
+ 3.if the training data split is baised KNN tends to get baised as well
+ 4.High demensionality reduces the score
+ 
