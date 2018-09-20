@@ -12,3 +12,4 @@ Machine Learning Course
 9. [Lecture 9 MultiVariable Regression and Gradient Descent](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%209%20MultiVariable%20Regression%20and%20Gradient%20Descent)
 10. [Lecture 10 Logistic Regression](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2010%20Logistic%20Regression)
 11. [Lecture 11 Classification Measures](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2011%20Classification%20Measures)
+12. [Lecture 12 Decision Trees-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2012%20Decision%20Trees-1)
