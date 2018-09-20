@@ -20,3 +20,4 @@ Machine Learning Course
 17. [Lecture 17 KNN](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2017%20Introduction%20to%20KNN)
 18. [Lecture 18 SVM](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2018%20SVM)
 19. [Lecture 19 PCA](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2019%20PCA)
+20. [Lecture 20 PCA-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2020%20PCA-2)
