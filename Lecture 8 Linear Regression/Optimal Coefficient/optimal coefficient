@@ -1,0 +1,2 @@
+c=y.mean()-mx.mean()
+m=(x*y)mean-x.mean()*y.mean()/x^2.mean()-x.mean()*x.mean()
