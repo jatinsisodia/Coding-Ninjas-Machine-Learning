@@ -1,0 +1,2 @@
+E(x,y)=1/m sum(-y*log(h(x))-(1-y)*log(1-h(x))
+convex
