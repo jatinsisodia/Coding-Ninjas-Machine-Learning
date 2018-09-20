@@ -1,0 +1,6 @@
+y=mx+c
+Cost=summation(y-(mx+c))^2
+Cost is minimised
+m_=m-slope
+m_m-alpha*slope
+c_=c-alpha*slope
