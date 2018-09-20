@@ -1,0 +1,12 @@
+PCA(Principle Component Analysis)
+We basically reduce the dimensionality
+
+Benefits of having lesser amount of data:
+1.Speed
+2.Memory
+3.Visualisation
+
+PCA on general,losses less accuracy on large datasets
+
+PCA: Minimise the perpendicular distance
+Linear Regression:Minimize the y value
