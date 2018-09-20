@@ -13,3 +13,5 @@
 6. Coding Linear Regression-1
 
 7. Coding Linear Regression-2
+
+8. Practice
