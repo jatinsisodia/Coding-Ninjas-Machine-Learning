@@ -1,0 +1,5 @@
+1.Covariance matrix
+2.Singular Value Decomposition(SVD):Apply SVD which will give us Eigen Vectors,Eigen Values
+
+Eigen Vector is telling us the Principle dimension
+Eigen Value is telling us how much information is contained in one diresction and in other direction
