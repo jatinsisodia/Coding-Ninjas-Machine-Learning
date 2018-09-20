@@ -15,3 +15,4 @@ Machine Learning Course
 12. [Lecture 12 Decision Trees-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2012%20Decision%20Trees-1)
 13. [Lecture 13 Decision Trees-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2013%20Decision%20Trees-2)
 14. [Lecture 14 Feature Scaling](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2014%20Feature%20Scaling)
+15. [Lecture 15 Random Forest](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2015%20Random%20Forests)
