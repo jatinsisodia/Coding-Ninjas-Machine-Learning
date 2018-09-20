@@ -18,3 +18,4 @@ Machine Learning Course
 15. [Lecture 15 Random Forest](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2015%20Random%20Forests)
 16. [Lecture 16 Naive Bayes](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2016%20Naive%20Bayes)
 17. [Lecture 17 KNN](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2017%20Introduction%20to%20KNN)
+18. [Lecture 18 SVM](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2018%20SVM)
