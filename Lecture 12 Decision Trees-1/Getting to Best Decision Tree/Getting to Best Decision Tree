@@ -1,0 +1,9 @@
+Finding best Decision  have to spend exponential amount of time
+Actually NP hard Problem
+
+We will find a tree which give a descent accuracy and exponentially ,uch easier to find(Greedy algoritm)
+
+In our greedy algorithm we are not going to worry what will happen eventually and we will be greedy about each individual steps.
+
+1.if Node is pure: output the only class
+2.if no feature is left to split upon:output majority
