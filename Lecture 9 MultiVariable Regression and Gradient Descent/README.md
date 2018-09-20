@@ -12,4 +12,4 @@
 
 6. Generic Gradient Descent
 
-7. Variations of Gradient DEscent
+7. Variations of Gradient Descent
