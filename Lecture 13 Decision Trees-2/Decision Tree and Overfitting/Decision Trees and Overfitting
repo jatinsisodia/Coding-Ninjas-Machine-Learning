@@ -1,0 +1,8 @@
+If we go on an split till pure node
+One way it can stop if we ran out of feature
+
+We should add stopping criteria:
+1.Stop early by adding more feature
+2.Prunning: build the tree and decide which are useful
+
+Generally we will use Prunning
