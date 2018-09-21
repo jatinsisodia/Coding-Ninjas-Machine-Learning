@@ -25,3 +25,4 @@ Machine Learning Course
 22. [Lecture 22 NLP-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2022%20NLP-2)
 23. [Lecture 23 Neural Networks-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2023%20Neural%20Network-1)
 24. [Lecture 24 Neural Network-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2024%20Neural%20Networks-2)
+25. [Lecture 25 Tensor Flow](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2025%20Tensor%20Flow)
