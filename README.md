@@ -28,3 +28,4 @@ Machine Learning Course
 25. [Lecture 25 Tensor Flow](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2025%20Tensor%20Flow)
 26. [Lecture 26 Keras](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2026%20Keras)
 27. [Lecture 27 CNN-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2027%20CNN-1)
+28. [Lecture 28 CNN-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2028%20CNN-2)
