@@ -23,3 +23,4 @@ Machine Learning Course
 20. [Lecture 20 PCA-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2020%20PCA-2)
 21. [Lecture 21 NLP-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2021%20NLP-1)
 22. [Lecture 22 NLP-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2022%20NLP-2)
+23. [Lecture 23 Neural Networks-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2023%20Neural%20Network-1)
