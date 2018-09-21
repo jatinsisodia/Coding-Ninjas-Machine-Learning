@@ -1,6 +1,6 @@
 ### Neural Network-1 ###
 
-1 .Why do we need neural networks
+1. Why do we need neural networks
 
 2. Example with Linear Decision Boundary
 
