@@ -30,3 +30,4 @@ Machine Learning Course
 27. [Lecture 27 CNN-1](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2027%20CNN-1)
 28. [Lecture 28 CNN-2](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2028%20CNN-2)
 29. [Lecture 29 RNN](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2029%20RNN)
+30. [Lecture 30 LSTM](https://github.com/anuraglahon16/Coding-Ninjas-Machine-Learning-/tree/master/Lecture%2030%20LSTM)
