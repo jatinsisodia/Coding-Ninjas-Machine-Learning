@@ -16,3 +16,12 @@
 
 8. Implementing a Simple Neural Network
 
+9. Optimising Our Codde Using Vector Operation
+
+10. Total Derivates
+
+11. Math behind Backpropagation
+
+12. Implementing a general Neural Network
+
+
