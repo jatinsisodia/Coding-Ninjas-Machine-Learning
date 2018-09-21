@@ -4,6 +4,10 @@
 
 [ ] Music Generation
 
-[ ] Fake news detection
+[x] Fake news detection
 
 [ ] Recommendation
+
+[ ] Google Stock Prediction
+
+[ ] Email spam/ham
